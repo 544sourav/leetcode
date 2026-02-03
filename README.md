@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
+| [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Two Pointers
 |  |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
