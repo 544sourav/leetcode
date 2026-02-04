@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
+| [3640-trionic-array-ii](https://github.com/544sourav/leetcode/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
+| [3640-trionic-array-ii](https://github.com/544sourav/leetcode/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
