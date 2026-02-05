@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3640-trionic-array-ii](https://github.com/544sourav/leetcode/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
