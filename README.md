@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 | [3640-trionic-array-ii](https://github.com/544sourav/leetcode/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
