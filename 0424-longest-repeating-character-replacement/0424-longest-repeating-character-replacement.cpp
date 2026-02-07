@@ -9,6 +9,7 @@ public:
             count = max(count, mp[s[j] - 'A']);
 
             while (j - i + 1 - count > k) {
+                count =0;
                 mp[s[i] - 'A']--;
                 i++;
             }
