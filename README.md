@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/544sourav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/544sourav/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/544sourav/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/544sourav/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0918-maximum-sum-circular-subarray](https://github.com/544sourav/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/544sourav/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/544sourav/leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
