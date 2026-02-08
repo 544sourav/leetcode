@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/544sourav/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/544sourav/leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/544sourav/leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
