@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/544sourav/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/544sourav/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/544sourav/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/544sourav/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/544sourav/leetcode/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/544sourav/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
