@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/544sourav/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/544sourav/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/544sourav/leetcode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/544sourav/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/544sourav/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/544sourav/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/544sourav/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/544sourav/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/544sourav/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 ## Math
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/544sourav/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/544sourav/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
