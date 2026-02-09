@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/544sourav/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/544sourav/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/544sourav/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/544sourav/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/544sourav/leetcode/tree/master/0046-permutations) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 ## Math
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0424-longest-repeating-character-replacement](https://github.com/544sourav/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
