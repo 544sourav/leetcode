@@ -1,35 +1,37 @@
 class Solution {
 public:
-    vector<int> nextPermutation(vector<int>&nums){
-        int n =nums.size();
-        int i = n-2;
-        while(i>=0 && nums[i]>=nums[i+1]){
-            i--;
+    void dfs(vector<int>& nums,
+             vector<int>& curr,
+             vector<bool>& used,
+             vector<vector<int>>& ans) {
+
+        if (curr.size() == nums.size()) {
+            ans.push_back(curr);
+            return;
         }
-        if(i>=0){
-            int j=n-1;
-            while(j>=0 && nums[j]<nums[i]){
-                j--;
-            }
-            swap(nums[j],nums[i]);
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (used[i]) continue;
+
+          
+            used[i] = true;
+            curr.push_back(nums[i]);
+
+         
+            dfs(nums, curr, used, ans);
+
+           
+            curr.pop_back();
+            used[i] = false;
         }
-         reverse(nums.begin()+i+1,nums.end());
-         return nums;
     }
+
     vector<vector<int>> permute(vector<int>& nums) {
-    vector<vector<int>> ans;
+        vector<vector<int>> ans;
+        vector<int> curr;
+        vector<bool> used(nums.size(), false);
 
-    sort(nums.begin(), nums.end()); 
-    ans.push_back(nums);
-
-    while (true) {
-        vector<int> next = nextPermutation(nums);
-        if (next == ans[0]) break;  
-        ans.push_back(next);
-        nums = next;
+        dfs(nums, curr, used, ans);
+        return ans;
     }
-
-    return ans;
-}
-
 };
