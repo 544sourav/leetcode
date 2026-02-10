@@ -12,8 +12,8 @@ public:
             st.push(i);
         }
 
-        for(auto x:nge) cout<<x<<" ";
-        cout<<endl;
+        // for(auto x:nge) cout<<x<<" ";
+        // cout<<endl;
         vector<int> ans;
         int j = 0;
         for (int i = 0; i <= n - k; i++) {
