@@ -1,19 +1,20 @@
 class RecentCounter {
 private:
-    priority_queue<int, vector<int>, greater<int>> pq;
-
+    deque<int> dq;   
 public:
     RecentCounter() {
-      
+       
     }
     
     int ping(int t) {
         
-        while (!pq.empty() && pq.top() < t - 3000) {
-            pq.pop();
+        while (!dq.empty() && dq.front() < t - 3000) {
+            dq.pop_front();
         }
 
-        pq.push(t);
-        return pq.size();
+       
+        dq.push_back(t);
+
+        return dq.size();
     }
 };
