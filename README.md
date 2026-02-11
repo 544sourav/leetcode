@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/544sourav/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1191-k-concatenation-maximum-sum](https://github.com/544sourav/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/544sourav/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1590-make-sum-divisible-by-p](https://github.com/544sourav/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/544sourav/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/544sourav/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/544sourav/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/544sourav/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Tree
 |  |
 | ------- |
