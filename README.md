@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/544sourav/leetcode/tree/master/0598-range-addition-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0704-binary-search](https://github.com/544sourav/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/544sourav/leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/544sourav/leetcode/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
