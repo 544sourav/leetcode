@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/544sourav/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/544sourav/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/544sourav/leetcode/tree/master/0040-combination-sum-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/544sourav/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/544sourav/leetcode/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
