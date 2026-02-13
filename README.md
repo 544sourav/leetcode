@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/544sourav/leetcode/tree/master/0598-range-addition-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -293,4 +294,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/544sourav/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
