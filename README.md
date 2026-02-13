@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/544sourav/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/544sourav/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/544sourav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/544sourav/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/544sourav/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/544sourav/leetcode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/544sourav/leetcode/tree/master/0598-range-addition-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
@@ -293,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [3713-longest-balanced-substring-i](https://github.com/544sourav/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
