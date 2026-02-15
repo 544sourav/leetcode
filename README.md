@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/544sourav/leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/544sourav/leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 ## Design
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/544sourav/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/544sourav/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
