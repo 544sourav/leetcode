@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/544sourav/leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/544sourav/leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/544sourav/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Bitmask
 |  |
 | ------- |
