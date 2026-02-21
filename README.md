@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0704-binary-search](https://github.com/544sourav/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/544sourav/leetcode/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/544sourav/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/544sourav/leetcode/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/544sourav/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/544sourav/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 ## Bitmask
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/544sourav/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 ## Design
