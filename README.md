@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/544sourav/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/544sourav/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0495-teemo-attacking](https://github.com/544sourav/leetcode/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/544sourav/leetcode/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
