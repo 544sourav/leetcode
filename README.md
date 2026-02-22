@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/544sourav/leetcode/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/544sourav/leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/544sourav/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
