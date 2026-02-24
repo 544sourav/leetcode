@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/544sourav/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/544sourav/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/544sourav/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/544sourav/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/544sourav/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/544sourav/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/544sourav/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
