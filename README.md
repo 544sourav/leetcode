@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/544sourav/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/544sourav/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bitmask
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/544sourav/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1518-water-bottles](https://github.com/544sourav/leetcode/tree/master/1518-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/544sourav/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3765-complete-prime-number](https://github.com/544sourav/leetcode/tree/master/3765-complete-prime-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/544sourav/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/544sourav/leetcode/tree/master/1518-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 ## Design
 |  |
