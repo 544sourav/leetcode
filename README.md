@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/544sourav/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/544sourav/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/544sourav/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/544sourav/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/544sourav/leetcode/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/544sourav/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/544sourav/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/544sourav/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/544sourav/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/544sourav/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
