@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
 | [3379-transformed-array](https://github.com/544sourav/leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/544sourav/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/544sourav/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/544sourav/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/544sourav/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/544sourav/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
