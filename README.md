@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/544sourav/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/544sourav/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/544sourav/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/544sourav/leetcode/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/544sourav/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/544sourav/leetcode/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/544sourav/leetcode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/544sourav/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/544sourav/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/544sourav/leetcode/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/544sourav/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/544sourav/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0761-special-binary-string](https://github.com/544sourav/leetcode/tree/master/0761-special-binary-string) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
