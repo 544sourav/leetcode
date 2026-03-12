@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/544sourav/leetcode/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/544sourav/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/544sourav/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
 | ------- |
@@ -532,8 +535,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/544sourav/leetcode/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/544sourav/leetcode/tree/master/0146-lru-cache) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
