@@ -22,8 +22,8 @@ public:
     int maxStability(int n, vector<vector<int>>& edges, int k) {
 
         sort(edges.begin(), edges.end(), [](vector<int>& a, vector<int>& b){
-            if(a[3] != b[3]) return a[3] > b[3]; // must edges first
-            return a[2] > b[2]; // higher stability first
+            if(a[3] != b[3]) return a[3] > b[3];
+            return a[2] > b[2]; 
         });
 
         vector<int> parent(n);
