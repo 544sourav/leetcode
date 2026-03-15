@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/544sourav/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1518-water-bottles](https://github.com/544sourav/leetcode/tree/master/1518-water-bottles) |
+| [1622-fancy-sequence](https://github.com/544sourav/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/544sourav/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/544sourav/leetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/544sourav/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/544sourav/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/544sourav/leetcode/tree/master/1622-fancy-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/544sourav/leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/544sourav/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/544sourav/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Data Stream
