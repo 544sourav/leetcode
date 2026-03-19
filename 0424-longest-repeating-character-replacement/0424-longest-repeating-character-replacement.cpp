@@ -1,24 +1,20 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n = s.size();
-        int i=0;
-        int j=0;
-        int count =0;
-        int maxi = INT_MIN;
+        int n  = s.size();
+        int left =0;
         vector<int>mp(26,0);
-        while(j<n){
-            mp[s[j]-'A']++;
-            count = max(count,mp[s[j]-'A']);
-            if(j-i+1-count >k){
-                mp[s[i]-'A']--;
-                i++;
+        int ans =0;
+        int maxfre=0;
+        for(int right =0;right<n;right++){
+            mp[s[right]-'A']++;
+            maxfre = max(maxfre, mp[s[right]-'A']);
+             while ((right - left + 1) - maxfre > k) {
+                mp[s[left] - 'A']--;
+                left++;
             }
-            if(j-i-count <=k){
-                maxi = max(maxi,j-i+1);
-            }
-            j++;
+            ans = max(ans,right-left+1);
         }
-        return maxi;
+        return ans;
     }
 };
