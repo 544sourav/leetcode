@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/544sourav/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/544sourav/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/544sourav/leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/544sourav/leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/544sourav/leetcode/tree/master/0146-lru-cache) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/544sourav/leetcode/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/544sourav/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
