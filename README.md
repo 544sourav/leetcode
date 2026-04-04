@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/544sourav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/544sourav/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/544sourav/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/544sourav/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/544sourav/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/544sourav/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/544sourav/leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/544sourav/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/544sourav/leetcode/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/544sourav/leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
