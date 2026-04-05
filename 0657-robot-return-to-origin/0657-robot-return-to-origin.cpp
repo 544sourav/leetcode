@@ -9,7 +9,6 @@ public:
             else if(x=='L')h++;
             else if(x=='R')h--;
         }
-        if(v==0 && h==0)return true;
-        return false;
+        return v == 0 && h == 0;
     }
 };
