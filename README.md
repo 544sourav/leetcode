@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/544sourav/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/544sourav/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/544sourav/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/544sourav/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
