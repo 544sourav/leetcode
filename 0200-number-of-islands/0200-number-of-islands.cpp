@@ -1,33 +1,84 @@
-class Solution {
+class DSU {
 public:
-    vector<pair<int,int>> dir{{1,0},{0,1},{-1,0},{0,-1}};
+    vector<int> parent, size;
 
-    int n,m;
-    void dfs(vector<vector<char>>& grid,int i,int j){
-        if(grid[i][j]=='0')return;
-        grid[i][j]='0';
-        for(auto [x,y]:dir){
-            int nx = x+i;
-            int ny = y+j;
-            if(nx>=0 && nx<n && ny >=0 && ny<m && grid[nx][ny]!='0'){
-                // grid[nx][ny]='0';
-                dfs(grid,nx,ny);
-            }
+    DSU(int n) {
+        parent.resize(n);
+        size.resize(n,1);
+
+        for(int i=0;i<n;i++){
+            parent[i]=i;
         }
     }
+
+    int findUPar(int node){
+        if(node==parent[node]) return node;
+
+        return parent[node]=findUPar(parent[node]);
+    }
+
+    void unionBySize(int u,int v){
+        int pu = findUPar(u);
+        int pv = findUPar(v);
+
+        if(pu==pv) return;
+
+        if(size[pu] < size[pv]){
+            parent[pu]=pv;
+            size[pv]+=size[pu];
+        }
+        else{
+            parent[pv]=pu;
+            size[pu]+=size[pv];
+        }
+    }
+};
+
+class Solution {
+public:
     int numIslands(vector<vector<char>>& grid) {
-         n = grid.size();
-         m = grid[0].size();
-         int cnt=0;
+
+        int n = grid.size();
+        int m = grid[0].size();
+
+        DSU dsu(n*m);
+
+        vector<pair<int,int>> dir{{1,0},{0,1},{-1,0},{0,-1}};
+
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]=='1'){
-                    // grid[i][j]='0';
-                    dfs(grid,i,j);
-                    cnt++;
+
+                if(grid[i][j]=='0') continue;
+
+                for(auto [dx,dy] : dir){
+
+                    int ni = i + dx;
+                    int nj = j + dy;
+
+                    if(ni>=0 && ni<n && nj>=0 && nj<m
+                       && grid[ni][nj]=='1'){
+
+                        int u = i*m + j;
+                        int v = ni*m + nj;
+
+                        dsu.unionBySize(u,v);
+                    }
                 }
             }
         }
-        return cnt;
+
+        unordered_set<int> st;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+
+                if(grid[i][j]=='1'){
+                    int node = i*m + j;
+                    st.insert(dsu.findUPar(node));
+                }
+            }
+        }
+
+        return st.size();
     }
 };
