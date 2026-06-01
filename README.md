@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/544sourav/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/544sourav/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/544sourav/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/544sourav/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/544sourav/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/544sourav/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/544sourav/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/544sourav/leetcode/tree/master/0141-linked-list-cycle) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/544sourav/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/544sourav/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/544sourav/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/544sourav/leetcode/tree/master/0169-majority-element) |
