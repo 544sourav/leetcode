@@ -12,15 +12,17 @@
 class Solution {
 public:
     bool flag = true;
-    int traversal(TreeNode* root){
+    int  height(TreeNode* root){
         if(root==nullptr)return 0;
-        int left = 1+traversal(root->left);
-        int right = 1+traversal(root->right);
-        if(abs(left-right)>1)flag =false;
+        int left = 1+ height(root->left);
+        int right = 1+height(root->right);
+        if(abs(left-right)>1){
+            flag = false;
+        }
         return max(left,right);
     }
     bool isBalanced(TreeNode* root) {
-        traversal(root);
+        height(root);
         return flag;
     }
 };
