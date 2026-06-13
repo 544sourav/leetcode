@@ -1,13 +1,24 @@
 class Solution {
 public:
-    bool canJump(vector<int>& nums) {
-        int maxs = 0;
-        int n = nums.size();
-        for(int i=0;i<n;i++){
-            if(i>maxs) return false;
-            maxs = max(maxs,i+nums[i]);
-            if(maxs>=n-1) return true;
+    vector<int> dp;
+
+    bool solve(vector<int>& nums, int idx) {
+        if (idx >= nums.size() - 1)
+            return true;
+
+        if (dp[idx] != -1)
+            return dp[idx];
+
+        for (int jump = 1; jump <= nums[idx]; jump++) {
+            if (solve(nums, idx + jump))
+                return dp[idx] = true;
         }
-        return false;
+
+        return dp[idx] = false;
+    }
+
+    bool canJump(vector<int>& nums) {
+        dp.assign(nums.size(), -1);
+        return solve(nums, 0);
     }
 };
