@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/544sourav/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/544sourav/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/544sourav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/544sourav/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/544sourav/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/544sourav/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/544sourav/leetcode/tree/master/0169-majority-element) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/544sourav/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/544sourav/leetcode/tree/master/0547-number-of-provinces) |
 | [2573-find-the-string-with-lcp](https://github.com/544sourav/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/544sourav/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/544sourav/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/544sourav/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/544sourav/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/544sourav/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/544sourav/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/544sourav/leetcode/tree/master/0146-lru-cache) |
