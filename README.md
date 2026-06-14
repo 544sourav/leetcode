@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/544sourav/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/544sourav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/544sourav/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/544sourav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/544sourav/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/544sourav/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/544sourav/leetcode/tree/master/0162-find-peak-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/544sourav/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/544sourav/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/544sourav/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/544sourav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/544sourav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/544sourav/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/544sourav/leetcode/tree/master/0739-daily-temperatures) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/544sourav/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/544sourav/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/544sourav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/544sourav/leetcode/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/544sourav/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/544sourav/leetcode/tree/master/0507-perfect-number) |
