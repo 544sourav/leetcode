@@ -18,7 +18,7 @@ public:
             pq.pop();
             if(m>k) continue;
             for(auto [x,y]:adj[s]){
-                cout<<d+y<<" "<<" "<<m+1<<" "<<x<<endl;
+                // cout<<d+y<<" "<<" "<<m+1<<" "<<x<<endl;
                if(dist[x]>d+y){
                 dist[x]= d+y;
                 pq.push({m+1,dist[x],x});
