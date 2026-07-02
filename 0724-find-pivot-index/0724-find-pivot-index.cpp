@@ -2,15 +2,18 @@ class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
         int n = nums.size();
+        vector<int>pre(n);
+        pre[0] = nums[0];
         for(int i=1;i<n;i++){
-            nums[i]+=nums[i-1];
+            pre[i] = nums[i] +pre[i-1];
         }
-        int val  =nums[n-1];
+        vector<int>suf(n);
+        suf[n-1]=nums[n-1];
+        for(int i = n-2;i>=0;i--){
+            suf[i] = nums[i] + suf[i+1];
+        }
         for(int i=0;i<n;i++){
-            if(i==0 && (val-nums[i])==0 )return i;
-            // if(i==n-2 && nums[i]==0)return n-2;
-            else if( i!=0 && nums[i-1] ==val-nums[i])return i;
-            
+            if(pre[i]==suf[i])return i;
         }
         return -1;
     }
