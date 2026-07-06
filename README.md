@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/544sourav/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/544sourav/leetcode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/544sourav/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/544sourav/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/544sourav/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/544sourav/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/544sourav/leetcode/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/544sourav/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/544sourav/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/544sourav/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/544sourav/leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/544sourav/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Doubly-Linked List
 |  |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/544sourav/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/544sourav/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
