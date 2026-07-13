@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/544sourav/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/544sourav/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/544sourav/leetcode/tree/master/1124-longest-well-performing-interval) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/544sourav/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/544sourav/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/544sourav/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
