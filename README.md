@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/544sourav/leetcode/tree/master/0752-open-the-lock) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/544sourav/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/544sourav/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/544sourav/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/544sourav/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/544sourav/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/544sourav/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/544sourav/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/544sourav/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/544sourav/leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/544sourav/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/544sourav/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
