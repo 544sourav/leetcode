@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
+| [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/544sourav/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/544sourav/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/544sourav/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2573-find-the-string-with-lcp](https://github.com/544sourav/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/544sourav/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/544sourav/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
