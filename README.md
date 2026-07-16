@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/544sourav/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/544sourav/leetcode/tree/master/2751-robot-collisions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/544sourav/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/544sourav/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/544sourav/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/544sourav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/544sourav/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/544sourav/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2751-robot-collisions](https://github.com/544sourav/leetcode/tree/master/2751-robot-collisions) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/544sourav/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/544sourav/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/544sourav/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/544sourav/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/544sourav/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/544sourav/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
