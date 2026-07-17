@@ -1,23 +1,26 @@
 class Solution {
 public:
     int maxSubarraySumCircular(vector<int>& nums) {
-        int totalSum = 0;
+        int total = 0;
 
-        int curMax = 0, maxKadane = INT_MIN;
-        int curMin = 0, minKadane = INT_MAX;
+        int maxSum = nums[0];
+        int currMax = 0;
+
+        int minSum = nums[0];
+        int currMin = 0;
 
         for (int x : nums) {
-            curMax = max(x, curMax + x);
-            maxKadane = max(maxKadane, curMax);
+            currMax = max(x, currMax + x);
+            maxSum = max(maxSum, currMax);
 
-            curMin = min(x, curMin + x);
-            minKadane = min(minKadane, curMin);
+            currMin = min(x, currMin + x);
+            minSum = min(minSum, currMin);
 
-            totalSum += x;
+            total += x;
         }
+        if (maxSum < 0)
+            return maxSum;
 
-        if (maxKadane < 0) return maxKadane;
-
-        return max(maxKadane, totalSum - minKadane);
+        return max(maxSum, total - minSum);
     }
 };
