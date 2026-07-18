@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/544sourav/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/544sourav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/544sourav/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/544sourav/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/544sourav/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/544sourav/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/544sourav/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/544sourav/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/544sourav/leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/544sourav/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/544sourav/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/544sourav/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/544sourav/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/544sourav/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/544sourav/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/544sourav/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/544sourav/leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/544sourav/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/544sourav/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
