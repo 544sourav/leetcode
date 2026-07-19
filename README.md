@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/544sourav/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/544sourav/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2906-construct-product-matrix](https://github.com/544sourav/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/544sourav/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/544sourav/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/544sourav/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/544sourav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/544sourav/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/544sourav/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/544sourav/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/544sourav/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/544sourav/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -804,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/544sourav/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/544sourav/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/544sourav/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -811,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/544sourav/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/544sourav/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Binary Search Tree
 |  |
 | ------- |
