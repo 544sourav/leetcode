@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/544sourav/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/544sourav/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/544sourav/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2351-first-letter-to-appear-twice](https://github.com/544sourav/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bitmask
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2351-first-letter-to-appear-twice](https://github.com/544sourav/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/544sourav/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/544sourav/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/544sourav/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/544sourav/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2351-first-letter-to-appear-twice](https://github.com/544sourav/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/544sourav/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/544sourav/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/544sourav/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/544sourav/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/544sourav/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/544sourav/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
