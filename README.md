@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/544sourav/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/544sourav/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/544sourav/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/544sourav/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1010,4 +1012,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/544sourav/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/544sourav/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
