@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0598-range-addition-ii](https://github.com/544sourav/leetcode/tree/master/0598-range-addition-ii) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/544sourav/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0667-beautiful-arrangement-ii](https://github.com/544sourav/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/544sourav/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/544sourav/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/544sourav/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/544sourav/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/544sourav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/544sourav/leetcode/tree/master/0752-open-the-lock) |
 | [0859-buddy-strings](https://github.com/544sourav/leetcode/tree/master/0859-buddy-strings) |
 | [0874-walking-robot-simulation](https://github.com/544sourav/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/544sourav/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/544sourav/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [0761-special-binary-string](https://github.com/544sourav/leetcode/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/544sourav/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/544sourav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/544sourav/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
@@ -902,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/544sourav/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/544sourav/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/544sourav/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/544sourav/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/544sourav/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
