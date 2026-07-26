@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/544sourav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/544sourav/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/544sourav/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/544sourav/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/544sourav/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/544sourav/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/544sourav/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/544sourav/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/544sourav/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/544sourav/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
