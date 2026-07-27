@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/544sourav/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/544sourav/leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/544sourav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2381-shifting-letters-ii](https://github.com/544sourav/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/544sourav/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/544sourav/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/544sourav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/544sourav/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/544sourav/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/544sourav/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/544sourav/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/544sourav/leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/544sourav/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/544sourav/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/544sourav/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/544sourav/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
