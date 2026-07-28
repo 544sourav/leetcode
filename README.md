@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/544sourav/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/544sourav/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/544sourav/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/544sourav/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/544sourav/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/544sourav/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/544sourav/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/544sourav/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/544sourav/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/544sourav/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/544sourav/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/544sourav/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/544sourav/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/544sourav/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/544sourav/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/544sourav/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/544sourav/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/544sourav/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/544sourav/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
