@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/544sourav/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/544sourav/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/544sourav/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/544sourav/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/544sourav/leetcode/tree/master/1094-car-pooling) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/544sourav/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/544sourav/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/544sourav/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/544sourav/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
 | [1191-k-concatenation-maximum-sum](https://github.com/544sourav/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/544sourav/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/544sourav/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/544sourav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/544sourav/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
 | [1124-longest-well-performing-interval](https://github.com/544sourav/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/544sourav/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/544sourav/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/544sourav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/544sourav/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/544sourav/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/544sourav/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/544sourav/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/544sourav/leetcode/tree/master/1631-path-with-minimum-effort) |
