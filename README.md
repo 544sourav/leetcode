@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/544sourav/leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/544sourav/leetcode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/544sourav/leetcode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/544sourav/leetcode/tree/master/0832-flipping-an-image) |
 | [0962-maximum-width-ramp](https://github.com/544sourav/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/544sourav/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/544sourav/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/544sourav/leetcode/tree/master/0763-partition-labels) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/544sourav/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/544sourav/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/544sourav/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/544sourav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/544sourav/leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/544sourav/leetcode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/544sourav/leetcode/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/544sourav/leetcode/tree/master/0859-buddy-strings) |
 | [0874-walking-robot-simulation](https://github.com/544sourav/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/544sourav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/544sourav/leetcode/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/544sourav/leetcode/tree/master/0752-open-the-lock) |
 | [0761-special-binary-string](https://github.com/544sourav/leetcode/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/544sourav/leetcode/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/544sourav/leetcode/tree/master/0859-buddy-strings) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/544sourav/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
