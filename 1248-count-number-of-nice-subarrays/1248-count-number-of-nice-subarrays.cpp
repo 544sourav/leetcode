@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        unordered_map<int,int>mp;
-        mp[0]=1;
-        int ans =0;
-        int curodd =0;
-        for(auto num:nums){
-            if(num%2==1)curodd++;
-            if(curodd>=k){
-                int tg = curodd-k;
-                if(mp.find(tg)!=mp.end()){
-                    ans += mp[tg];
-                }
+    int subarray(vector<int>&nums,int k){
+        int i =0;
+        int odd =0;
+        int cnt=0;
+        for(int j=0;j<nums.size();j++){
+            if(nums[j]%2==1)odd++;
+            while(odd>k){
+                if(nums[i]%2==1)odd--;
+                i++;
             }
-            mp[curodd]++;
+            cnt += j-i+1;            
         }
-        return ans;
+        return cnt;
+    }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+       return subarray(nums,k)-subarray(nums,k-1);
     }
 };
