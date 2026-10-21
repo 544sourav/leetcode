@@ -18,6 +18,15 @@ public:
             else if(nums[mid-1]>nums[mid]){
                 hi = mid-1;
             }
+            // if(nums[mid]>nums[mid-1] && nums[mid]>nums[mid+1]){
+            //     return mid;
+            // }
+            // else if(nums[mid]<nums[lo]){
+            //     hi = mid-1;
+            // }
+            // else {
+            //     lo = mid+1;
+            // }
         }
         return lo;
 
