@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/544sourav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/544sourav/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/544sourav/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/544sourav/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/544sourav/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/544sourav/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/544sourav/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/544sourav/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/544sourav/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/544sourav/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/544sourav/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/544sourav/leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/544sourav/leetcode/tree/master/0401-binary-watch) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/544sourav/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/544sourav/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/544sourav/leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/544sourav/leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/544sourav/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
