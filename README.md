@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/544sourav/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/544sourav/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/544sourav/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1191-k-concatenation-maximum-sum](https://github.com/544sourav/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/544sourav/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/544sourav/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/544sourav/leetcode/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/544sourav/leetcode/tree/master/0859-buddy-strings) |
 | [1048-longest-string-chain](https://github.com/544sourav/leetcode/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/544sourav/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/544sourav/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/544sourav/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/544sourav/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1191,4 +1193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/544sourav/leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/544sourav/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
